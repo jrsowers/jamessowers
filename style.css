@@ -4,7 +4,7 @@ html {
 
 /* --- Change default colors --- */
 :root {
-  --color-bg-default: #FFFFFF !important;
+  --color-bg-default: #F9F6F0 !important;
   --color-text-default: #4B5673 !important;
   --color-text-default-light: #4B5673 !important;
   --color-text-gray: #959BA9 !important;
@@ -22,7 +22,7 @@ html {
 /* Increase base font size for large screens */
 @media screen and (min-width: 50em) {
   html {
-    font-size: 30px !important;
+    font-size: 18px !important;
   }
 }
 
